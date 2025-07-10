@@ -1,1 +1,2 @@
-console.log("Welcome to StarH4x's World – DOMINATION MODE: ON.");
+
+console.log("StarH4x – The rise has begun.")
