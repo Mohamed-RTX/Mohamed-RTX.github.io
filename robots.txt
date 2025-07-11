@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mohamed-rtx.github.io/sitemap.xml
